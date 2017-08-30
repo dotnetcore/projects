@@ -129,6 +129,22 @@
 {
     background-image: url('/images/project/asp-natasha-avator.png');
 }
+.project-group .project-dotnetspider .project-summary
+{
+    background-image: url('/images/project/dotnetspider.png');
+}
+.project-group .project-dotnetspider .project-avator
+{
+    background-image: url('/images/project/dotnetspider-avator.png');
+}
+.project-group .project-npoi .project-summary
+{
+    background-image: url('/images/project/npoi.png');
+}
+.project-group .project-npoi .project-avator
+{
+    background-image: url('/images/project/npoi-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
