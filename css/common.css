@@ -992,9 +992,7 @@ textarea::-webkit-input-placeholder
 {
     width: .32rem;
     height: .32rem;
-    margin-left: .2rem;
-
-    color: #fff; 
+    margin-left: .2rem; 
 
     fill: currentColor;
 }
