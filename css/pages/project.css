@@ -169,13 +169,13 @@
 {
     background-image: url('/images/project/easycaching-avator.png');
 }
-.project-group .project-dotnetcore-collecton .project-summary
+.project-group .project-collecton .project-summary
 {
-    background-image: url('/images/project/dotnetcore-collecton.png');
+    background-image: url('/images/project/collecton.png');
 }
-.project-group .project-dotnetcore-collecton .project-avator
+.project-group .project-collecton .project-avator
 {
-    background-image: url('/images/project/dotnetcore-collecton-avator.png');
+    background-image: url('/images/project/collecton-avator.png');
 }
 .project-group .project-item
 {
