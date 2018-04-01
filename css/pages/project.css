@@ -145,6 +145,38 @@
 {
     background-image: url('/images/project/npoi-avator.png');
 }
+.project-group .project-alipay-sdk .project-summary
+{
+    background-image: url('/images/project/alipay-sdk.png');
+}
+.project-group .project-alipay-sdk .project-avator
+{
+    background-image: url('/images/project/alipay-sdk-avator.png');
+}
+.project-group .project-webapiclient .project-summary
+{
+    background-image: url('/images/project/webapiclient.png');
+}
+.project-group .project-webapiclient .project-avator
+{
+    background-image: url('/images/project/webapiclient-avator.png');
+}
+.project-group .project-easycaching .project-summary
+{
+    background-image: url('/images/project/easycaching.png');
+}
+.project-group .project-easycaching .project-avator
+{
+    background-image: url('/images/project/easycaching-avator.png');
+}
+.project-group .project-dotnetcore-collecton .project-summary
+{
+    background-image: url('/images/project/dotnetcore-collecton.png');
+}
+.project-group .project-dotnetcore-collecton .project-avator
+{
+    background-image: url('/images/project/dotnetcore-collecton-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
