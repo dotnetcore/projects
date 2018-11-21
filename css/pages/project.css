@@ -121,6 +121,14 @@
 {
     background-image: url('/images/project/dotnetspider-avator.png');
 }
+.project-group .project-botsharp .project-summary
+{
+    background-image: url('/images/project/botsharp.png');
+}
+.project-group .project-botsharp .project-avator
+{
+    background-image: url('/images/project/botsharp-avator.png');
+}
 .project-group .project-asp-zkweb .project-summary
 {
     background-image: url('/images/project/asp-zkweb.png');
