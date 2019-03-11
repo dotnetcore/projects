@@ -73,6 +73,15 @@
     -webkit-flex-wrap: wrap;
             flex-wrap: wrap;
 }
+.project-level
+{
+    font-size: .25rem;
+    font-weight: 600;
+
+    margin: 0 0 15px 0; 
+
+    text-align: center;
+}
 .project-group .project-asp-translate .project-summary
 {
     background-image: url('/images/project/asp-translate.png');
@@ -121,13 +130,21 @@
 {
     background-image: url('/images/project/dotnetspider-avator.png');
 }
-.project-group .project-botsharp .project-summary
+.project-group .project-wtm .project-summary
 {
-    background-image: url('/images/project/botsharp.png');
+    background-image: url('/images/project/wtm.png');
 }
-.project-group .project-botsharp .project-avator
+.project-group .project-wtm .project-avator
 {
-    background-image: url('/images/project/botsharp-avator.png');
+    background-image: url('/images/project/wtm-avator.png');
+}
+.project-group .project-canal .project-summary
+{
+    background-image: url('/images/project/canal.png');
+}
+.project-group .project-canal .project-avator
+{
+    background-image: url('/images/project/canal-avator.png');
 }
 .project-group .project-asp-zkweb .project-summary
 {
