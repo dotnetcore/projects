@@ -146,6 +146,14 @@
 {
     background-image: url('/images/project/canal-avator.png');
 }
+.project-group .project-smartcode .project-summary
+{
+    background-image: url('/images/project/smartcode.png');
+}
+.project-group .project-smartcode .project-avator
+{
+    background-image: url('/images/project/smartcode-avator.png');
+}
 .project-group .project-asp-zkweb .project-summary
 {
     background-image: url('/images/project/asp-zkweb.png');
