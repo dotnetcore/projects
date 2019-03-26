@@ -1,3 +1,5 @@
-# dotNET-China 项目
+# Projects of .NET Core Community
 
-请移步 [http://projects.dotnet-china.org](http://projects.dotnet-china.org)
+本站由 .NET Core Community (NCC) 维护。
+
+请移步 [https://www.dotnetcore.xyz](https://www.dotnetcore.xyz)
