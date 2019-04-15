@@ -154,6 +154,14 @@
 {
     background-image: url('/images/project/smartcode-avator.png');
 }
+.project-group .project-smartsql .project-summary
+{
+    background-image: url('/images/project/smartsql.png');
+}
+.project-group .project-smartsql .project-avator
+{
+    background-image: url('/images/project/smartsql-avator.png');
+}
 .project-group .project-asp-zkweb .project-summary
 {
     background-image: url('/images/project/asp-zkweb.png');
