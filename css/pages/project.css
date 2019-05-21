@@ -210,6 +210,14 @@
 {
     background-image: url('/images/project/easycaching-avator.png');
 }
+.project-group .project-flubucore .project-summary
+{
+    background-image: url('/images/project/flubucore.png');
+}
+.project-group .project-flubucore .project-avator
+{
+    background-image: url('/images/project/flubucore-avator.png');
+}
 .project-group .project-collecton .project-summary
 {
     background-image: url('/images/project/collecton.png');
