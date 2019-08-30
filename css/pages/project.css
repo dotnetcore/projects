@@ -104,7 +104,8 @@
 }
 .project-group .project-asp-cap .project-avator
 {
-    background-image: url('/images/project/asp-cap-avator.png');
+	background-color: white; 
+    background-image: url('/images/project/asp-cap-avator.svg');
 }
 .project-group .project-asp-util .project-summary
 {
