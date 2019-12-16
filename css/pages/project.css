@@ -171,6 +171,14 @@
 {
     background-image: url('/images/project/asp-zkweb-avator.png');
 }
+.project-group .project-magicodes-ie .project-summary
+{
+    background-image: url('/images/project/magicodes-ie.png');
+}
+.project-group .project-magicodes-ie .project-avator
+{
+    background-image: url('/images/project/magicodes-ie-avator.png');
+}
 .project-group .project-asp-natasha .project-summary
 {
     background-image: url('/images/project/asp-natasha.png');
