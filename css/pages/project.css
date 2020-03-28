@@ -227,6 +227,14 @@
 {
     background-image: url('/images/project/flubucore-avator.png');
 }
+.project-group .project-freesql .project-summary
+{
+    background-image: url('/images/project/freesql.png');
+}
+.project-group .project-freesql .project-avator
+{
+    background-image: url('/images/project/freesql-avator.png');
+}
 .project-group .project-kooboojson .project-summary
 {
     background-image: url('/images/project/kooboojson.png');
