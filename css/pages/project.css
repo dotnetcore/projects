@@ -171,14 +171,6 @@
 {
     background-image: url('/images/project/smartsql-avator.png');
 }
-.project-group .project-asp-zkweb .project-summary
-{
-    background-image: url('/images/project/asp-zkweb.png');
-}
-.project-group .project-asp-zkweb .project-avator
-{
-    background-image: url('/images/project/asp-zkweb-avator.png');
-}
 .project-group .project-magicodes-ie .project-summary
 {
     background-image: url('/images/project/magicodes-ie.png');
@@ -258,6 +250,14 @@
 .project-group .project-collecton .project-avator
 {
     background-image: url('/images/project/collecton-avator.png');
+}
+.project-group .project-ce .project-summary
+{
+    background-image: url('/images/project/ce.png');
+}
+.project-group .project-ce .project-avator
+{
+    background-image: url('/images/project/ce-avator.png');
 }
 .project-group .project-item
 {
