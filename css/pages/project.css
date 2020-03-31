@@ -147,6 +147,14 @@
 {
     background-image: url('/images/project/canal-avator.png');
 }
+.project-group .project-osharp .project-summary
+{
+    background-image: url('/images/project/osharp.png');
+}
+.project-group .project-osharp .project-avator
+{
+    background-image: url('/images/project/osharp-avator.png');
+}
 .project-group .project-smartcode .project-summary
 {
     background-image: url('/images/project/smartcode.png');
