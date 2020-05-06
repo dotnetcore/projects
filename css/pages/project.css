@@ -115,14 +115,6 @@
 {
     background-image: url('/images/project/asp-util-avator.png');
 }
-.project-group .project-asp-surging .project-summary
-{
-    background-image: url('/images/project/asp-surging.png');
-}
-.project-group .project-asp-surging .project-avator
-{
-    background-image: url('/images/project/asp-surging-avator.png');
-}
 .project-group .project-dotnetspider .project-summary
 {
     background-image: url('/images/project/dotnetspider.png');
@@ -170,6 +162,14 @@
 .project-group .project-smartsql .project-avator
 {
     background-image: url('/images/project/smartsql-avator.png');
+}
+.project-group .project-httpreports .project-summary
+{
+    background-image: url('/images/project/httpreports.png');
+}
+.project-group .project-httpreports .project-avator
+{
+    background-image: url('/images/project/httpreports-avator.png');
 }
 .project-group .project-magicodes-ie .project-summary
 {
