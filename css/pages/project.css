@@ -267,6 +267,14 @@
 {
     background-image: url('/images/project/se-avator.png');
 }
+.project-group .project-bootstarp-blazor .project-summary
+{
+    background-image: url('/images/project/bootstarp-blazor.png');
+}
+.project-group .project-bootstarp-blazor .project-avator
+{
+    background-image: url('/images/project/bootstarp-blazor-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
