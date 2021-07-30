@@ -275,6 +275,22 @@
 {
     background-image: url('/images/project/bootstrap-blazor-avator.png');
 }
+.project-group .project-agileconfig .project-summary
+{
+    background-image: url('/images/project/agile-config.png');
+}
+.project-group .project-agileconfig .project-avator
+{
+    background-image: url('/images/project/agile-config-avator.png');
+}
+.project-group .project-fastgithub .project-summary
+{
+    background-image: url('/images/project/fastgithub.png');
+}
+.project-group .project-fastgithub .project-avator
+{
+    background-image: url('/images/project/fastgithub-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
