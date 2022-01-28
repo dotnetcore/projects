@@ -291,6 +291,14 @@
 {
     background-image: url('/images/project/fastgithub-avator.png');
 }
+.project-group .project-sharding-core .project-summary
+{
+    background-image: url('/images/project/sharding-core.png');
+}
+.project-group .project-sharding-core .project-avator
+{
+    background-image: url('/images/project/sharding-core-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
