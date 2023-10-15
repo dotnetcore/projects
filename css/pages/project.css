@@ -299,6 +299,38 @@
 {
     background-image: url('/images/project/sharding-core-avator.png');
 }
+.project-group .project-mocha .project-summary
+{
+    background-image: url('/images/project/mocha.png');
+}
+.project-group .project-mocha .project-avator
+{
+    background-image: url('/images/project/mocha-avator.png');
+}
+.project-group .project-wind-rises .project-summary
+{
+    background-image: url('/images/project/wind-rises.png');
+}
+.project-group .project-wind-rises .project-avator
+{
+    background-image: url('/images/project/wind-rises-avator.png');
+}
+.project-group .project-efcore-kingbasees .project-summary
+{
+    background-image: url('/images/project/efcore-kingbasees.png');
+}
+.project-group .project-efcore-kingbasees .project-avator
+{
+    background-image: url('/images/project/efcore-kingbasees-avator.png');
+}
+.project-group .project-efcore-gaussdb .project-summary
+{
+    background-image: url('/images/project/efcore-gaussdb.png');
+}
+.project-group .project-efcore-gaussdb .project-avator
+{
+    background-image: url('/images/project/efcore-gaussdb-avator.png');
+}
 .project-group .project-item
 {
     width: 100%;
